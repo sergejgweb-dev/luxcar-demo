@@ -11,8 +11,6 @@ const cars = [
       "./slike/peugeot2008/slika6.jpeg",
       "./slike/peugeot2008/slika7.jpeg",
       "./slike/peugeot2008/slika8.jpeg",
-      "./slike/peugeot2008/slika9.jpeg",
-      "./slike/peugeot2008/slika10.jpeg",
     ],
     link: "https://olx.ba/artikal/72858557",
 
